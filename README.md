@@ -1,6 +1,7 @@
 # Thermes
 Messaging application for Linux terminal in development
 
+
                                  d888b
           __,.---"""-.          8888888          .-"""---.,__
       _.-' ._._._._,_ `"-.      8888888      .-"` _,_._._._. '-._
@@ -36,3 +37,4 @@ Messaging application for Linux terminal in development
                                ';;;8/  /
                                 '-'8'-'
                                    8
+
